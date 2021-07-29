@@ -1,0 +1,39 @@
+table{
+    width:75%; 
+   border-spacing:10px;  
+ }
+ td, table{
+   border:2px solid ;
+  border-collapse:collapse;
+   text-align: center;
+   padding: 5px;
+ }
+ input{
+ 
+ border:none; 
+   border-bottom: 3px solid red;
+ }
+ 
+ .style0{
+   background-color: skyblue
+ }
+ #tbg{
+    background-color: #ffa6c9;
+   width: 77.9% ;
+ 
+ }
+ #pbg{
+    background-color:   #853d99;
+   display: flex;
+   justify-content: center;
+   padding-bottom: 7%;
+     padding-top: 7%;
+ 
+ /*   width: 76.5% ; */
+ 
+ }
+ #cap2{
+   text-align: right;
+     padding-right: 16%;
+   
+ }
